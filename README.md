@@ -4,7 +4,7 @@ This project was created with Nuxt from the command:
 ```bash
 npx nuxi init <appName>
 ```
-where <appName> is the name you want to give to your app.
+where appName is the name you want to give to your app.
 
 Note that Nuxt works in tandem with Vue. Nuxt adds router capabilities to VueJS.
 
