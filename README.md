@@ -1,4 +1,14 @@
-# Nuxt 3 Minimal Starter
+# Project Description
+
+This project was created with Nuxt from the command: 
+```bash
+npx nuxi init <appName>
+```
+where <appName> is the name you want to give to your app.
+
+Note that Nuxt works in tandem with Vue. Nuxt adds router capabilities to VueJS.
+
+This project was built on top of the tutorial https://vuejs.org/tutorial/#step-7 to learn how to create and delete elements from a list using VueJS. Also, a small counter component has been added to show how the creation of components works.
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
